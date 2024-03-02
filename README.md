@@ -1,0 +1,3 @@
+-I'm a game developer and a web application front-end and back-end developer.
+-I'm here for steeling codes but i export some of mine.
+-and I try to make a real game -all the experiments failed-.
